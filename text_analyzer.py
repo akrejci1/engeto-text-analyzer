@@ -1,7 +1,3 @@
-# projekt_1.py: první projekt do Engeto Online Python Akademie
-# author: Adam Krejčí
-# email: adam.krejci.1915@gmail.com
-
 users = {
     "bob": "123",
     "ann": "pass123",
