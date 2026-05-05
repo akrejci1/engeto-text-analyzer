@@ -17,4 +17,4 @@ No external libraries are required. You just need to have Python installed on yo
 1. Download the script.
 2. Run it in your terminal or command prompt:
 ```bash
-python projekt_1.py
+text_analyzer.py
